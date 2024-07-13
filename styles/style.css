@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin:0,solid;
+    padding: 40px;
+}
+.btn primary{
+   
+    padding: 18px 35px;
+    border: none;
+    background-color: black;
+    border-radius: 5px;
+    align-items: center;
+    margin-top: 8px;
+    justify-content: center;
+}
+
+.developer{
+    background-image: url(../assets/Hero-bg.png);
+    width: 900px;
+    height:700px;
+    background-size:cover;
+    background-position: center;
+    align-items: center;
+    
+}
+
+.developer pic {
+    width: 219px;
+    height: 244px;
+}
+#hero{
+    margin: 15px;
+    padding: 15px;
+    font-size: 60px;
+    font-weight: bold;
+    font-display: flex;
+}
+.hero description{
+    margin-top: 5px;
+    font-size: small;
+}
+
+
+
+
